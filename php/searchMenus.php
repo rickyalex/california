@@ -1,0 +1,12 @@
+{"asd":[{"deptID":"ga","dept":"General Affair"},{"deptID":"it","dept":"Information Technology"},{"deptID":"hr","dept":"Human Resource"},{"deptID":"isd","dept":"Industrial Safety Department"},{"deptID":"env","dept":"Env. Protection Dept"},{"deptID":"pub","dept":"Public Affairs"}],
+"fin":[{"deptID":"fin","dept":"Finance & Accounting"}],
+"snm":[{"deptID":"snm","dept":"Sales & Marketing"},{"deptID":"sme","dept":"Sales & Marketing Export"}],
+"log":[{"deptID":"pro","dept":"Procurement"},{"deptID":"mat","dept":"Material Management"},{"deptID":"fin","dept":"Finished Goods Warehouse"},{"deptID":"del","dept":"Delivery"},{"deptID":"pac","dept":"Packaging Material"},{"deptID":"atl","dept":"Asia Trade Logistics"}],
+"eng":[{"deptID":"mam","dept":"Mechanical Maintenance"},{"deptID":"eim","dept":"E/I Maintenance"},{"deptID":"man","dept":"Manufacturing (Workshop)"},{"deptID":"prt","dept":"Project & Technical Department"}],
+"ppr":[{"deptID":"pma","dept":"Paper Mill A"},{"deptID":"pmb","dept":"Paper Mill B"},{"deptID":"pfb","dept":"Paper Finishing B"},{"deptID":"bub","dept":"BU Brown Paper"},{"deptID":"bui","dept":"BU IKS White Paper"}],
+"con":[{"deptID":"con","dept":"Converting"},{"deptID":"crb","dept":"Carton Box"}],
+"off":[{"deptID":"bs","dept":"Offset"},{"deptID":"bs","dept":"Business Support"}],
+"cnd":[{"deptID":"cnd","dept":"Compliance & Development"},{"deptID":"rdd","dept":"R&D Department"},{"deptID":"qa","dept":"QA Department"}],
+"mil":[{"deptID":"vpo","dept":"Vice President Office"},{"deptID":"mic","dept":"Mill Internal Control"},{"deptID":"imh","dept":"IKPP Mill Head"}],
+"car":[{"deptID":"car","dept":"Marketing Carton Box"}],
+"cor":[{"deptID":"cor","dept":"Corporate Workshop"}]}
